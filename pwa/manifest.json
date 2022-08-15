@@ -1,0 +1,25 @@
+{
+    "name": "Inventur Scanner",
+    "short_name": "Inv Scanner",
+    "theme_color": "#404040",
+    "background_color": "#ffe4e4",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://ff-hk.github.io/",
+    "description": "Inventory Scanner",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "example.png",
+            "sizes": "1024x1024",
+            "purpose": "maskable"
+        }
+    ],
+    "icons": [
+        {
+            "src": "example.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
+ 
